@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravenous-project/static/css/main.1fd37934.chunk.css",
+    "main.js": "/ravenous-project/static/js/main.25714ec1.chunk.js",
+    "main.js.map": "/ravenous-project/static/js/main.25714ec1.chunk.js.map",
+    "runtime~main.js": "/ravenous-project/static/js/runtime~main.57c0fe2f.js",
+    "runtime~main.js.map": "/ravenous-project/static/js/runtime~main.57c0fe2f.js.map",
+    "static/js/2.f0927397.chunk.js": "/ravenous-project/static/js/2.f0927397.chunk.js",
+    "static/js/2.f0927397.chunk.js.map": "/ravenous-project/static/js/2.f0927397.chunk.js.map",
+    "index.html": "/ravenous-project/index.html",
+    "precache-manifest.a2743210ed248e3281f981991df50edc.js": "/ravenous-project/precache-manifest.a2743210ed248e3281f981991df50edc.js",
+    "service-worker.js": "/ravenous-project/service-worker.js",
+    "static/css/main.1fd37934.chunk.css.map": "/ravenous-project/static/css/main.1fd37934.chunk.css.map"
+  }
+}
