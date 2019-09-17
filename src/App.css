@@ -32,16 +32,18 @@ input:focus {
 
 .App {
   font-family: 'Work Sans', sans-serif;
+  background-color: #c4f7b0;
 }
 
 h1 {
   padding: .66rem 0;
   text-align: center;
-  background-color: #cca353;
+  background-color: #194507;
   font-family: Poppins, sans-serif;
   font-size: 1.8rem;
   color: #fff;
 }
+
 .App {
   text-align: center;
 }
